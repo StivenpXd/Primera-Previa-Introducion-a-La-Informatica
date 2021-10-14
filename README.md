@@ -1,5 +1,5 @@
 # Primera-Previa-Introducion-a-La-Informatica
-En este repositorio encontramos todos los archivos referentes que debiamos desarrollar en la primera previa. 
+En este repositorio encontramos todos los archivos referentes que debiamos desarrollar en la primera previa, tambien añadi la presentacion en pdf y power point.
 
 Talleres de la Primera previa
 1. Anexo el link del Primer Taller de Excalidraw (Conversion de Numeros): https://excalidraw.com/#json=5699933814390784,Tvnwn91X-Ba2l00yfm51Yw
